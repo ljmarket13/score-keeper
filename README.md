@@ -1,2 +1,2 @@
 # score-keeper
-score keeper vanilla JS
+Basic score keeper app built with vanilla JavaScript. No Styling added.
